@@ -16,11 +16,11 @@
       <modal v-model="modal2" title="Search details about Venues" @on-ok="ok" @on-cancel="cancel" height="400px">
 
         <span><strong>Enter a City:</strong></span>
-        <input v-model="city" placeholder="Enter a city name"style="width: 300px;color: lightslategray;" ></input>
+        <input v-model="city" placeholder="Enter a city name" style="width: 300px;color: lightslategray;" />
         <br>
 
         <span><strong>Enter VenueName:</strong></span>
-        <input v-model="q" placeholder="Enter Characters/Words/Phrase" style="width: 300px;color: lightslategray;"></input>
+        <input v-model="q" placeholder="Enter Characters/Words/Phrase" style="width: 300px;color: lightslategray;"/>
         <br>
 
         <span><strong>Select Category:</strong></span>
@@ -369,7 +369,7 @@
               _this.myLongitude=coordinates.lng;
               _this.getAll();
             });
-          console.log('dfgdfgdfgdfgdfgdf')
+          // console.log('dfgdfgdfgdfgdfgdf')
           _this.getAll();
         },
         newFunction:function () {
