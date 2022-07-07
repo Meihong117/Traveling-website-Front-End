@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.18.0",
     "iview": "^3.4.1",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "style-loader": "^0.23.1",
     "vue": "^2.6.10",
     "vue-ads-pagination": "^2.1.4",
