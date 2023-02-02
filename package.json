@@ -19,7 +19,7 @@
     "vue-browser-geolocation": "^1.5.0",
     "vue-cookies": "^1.5.13",
     "vue-plain-pagination": "^0.3.0",
-    "vue-resource": "^1.5.1",
+    "vue-resource": "^1.5.3",
     "vue-router": "^3.0.6",
     "vuejs-paginate": "^2.1.0",
     "vuejs-paginator": "^2.0.2"
